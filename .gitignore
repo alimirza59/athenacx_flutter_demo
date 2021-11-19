@@ -47,3 +47,4 @@ app.*.map.json
 /device-2021-06-30-162744.png
 /pubspec.lock
 /README.md
+/.metadata
