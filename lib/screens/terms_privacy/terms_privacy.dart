@@ -7,6 +7,7 @@ import 'package:athenacx_flutter_demo/screens/terms_privacy/term_privacy_switch.
 import 'package:athenacx_flutter_demo/screens/terms_privacy/term_privacy_text.dart';
 
 class TermsPrivacy extends StatefulWidget {
+
   static const String TERMS_PRIVACY = "/term_privacy";
 
   static const String TERMS_CHECKED_KEY = "isTermsChecked";
